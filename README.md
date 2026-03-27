@@ -36,5 +36,7 @@ Open [http://127.0.0.1:8000](http://127.0.0.1:8000).
 ## 3) API
 
 - `POST /chat`
-  - Request JSON: `{ "message": "Hello" }`
+  - Request JSON: `{ "message": "Find solution to number of islands problem with DFS" }`
   - Response JSON: `{ "reply": "..." }`
+  <img width="786" height="656" alt="Screenshot 2026-03-27 at 4 22 14 PM" src="https://github.com/user-attachments/assets/17afe219-56e0-469b-bdbc-8e3544260ab8" />
+
